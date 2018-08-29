@@ -1,0 +1,11 @@
+{
+  "name": "package-installer",
+  "version": "1.0.0",
+  "description": "Applies topological sort to an array of packages and dependencies",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jeff Culbertson jbculbertson@gmail.com",
+  "license": "ISC"
+}
