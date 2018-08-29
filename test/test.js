@@ -1,6 +1,6 @@
 var assert = require('assert');
 
-const { DependencySorter } = require('../src/function.js');
+const { DependencySorter } = require('../src/package-installer.js');
 const sorter = new DependencySorter();
 
 const array1 = ['KittenService: CamelCaser', 'CamelCaser: '];
